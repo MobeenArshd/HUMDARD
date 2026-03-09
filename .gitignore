@@ -1,0 +1,15 @@
+# Secrets - NEVER upload this
+.streamlit/secrets.toml
+
+# ChromaDB local database
+chroma_db/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# IDE
+.vscode/
+.idea/
